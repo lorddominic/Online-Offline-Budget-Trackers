@@ -6,7 +6,7 @@ The following image shows a glimpse of the application:
 ## Description:
 The Online/Offline Budget Tracker UI allows for the user to be able to track transactions to and from their account with or without internet connection. This way the user is able to go about their busy schedule and keep tabs on how much money they have in their account. This application is practacle and can be used by anyone who wants to keep track of their money. 
 
-## [Open the App!]()
+## [Open the App!](https://apricot-tart-87520.herokuapp.com/)
 
 ## Technology used:
 
